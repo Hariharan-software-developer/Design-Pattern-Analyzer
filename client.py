@@ -1,5 +1,5 @@
 import time
-from tutor_module import ArchitectureTutor
+from architecture_tutor import ArchitectureTutor
 
 def run_tests():
     print(f"\n{'='*70}")
